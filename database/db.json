@@ -1,0 +1,36 @@
+{
+    "User" :[
+    {
+        "id": 1,
+        "Name" : "Jacob Asiotu",
+        "Email" : "Jacob@yahoo.com",
+        "Profile" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fair-photography%2F39&psig=AOvVaw1UBW9R4HLZqmuFeaJoSkBV&ust=1685815160915000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCDsYWVpf8CFQAAAAAdAAAAABAK",
+        "Status" : "Active",
+        "Role" : "Admin"
+    },
+    {
+        "id": 2,
+        "Name" : "Abigail Tarila",
+        "Email" : "Esther@yahoo.com",
+        "Profile" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Ffemale-passport-photo&psig=AOvVaw1Xq1NhSOeHeLR7HB4Ms192&ust=1685812813899000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLirrKWMpf8CFQAAAAAdAAAAABAY",
+        "Status" : "Active",
+        "Role" : "Admin"
+    },
+    {
+        "id": 3,
+        "Name" : "Ervin Howell",
+        "Email" : "Ervin@gamil.com",
+        "Profile" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fphoto%2F992768-passport-photo-of-beautiful-woman-in-white-shirt&psig=AOvVaw1Xq1NhSOeHeLR7HB4Ms192&ust=1685812813899000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLirrKWMpf8CFQAAAAAdAAAAABAg",
+        "Status" : "Deactivated",
+        "Role" : "Admin"
+    },
+    {
+        "id": 4,
+        "Name" : "Amadi Victor",
+        "Email" : "Amadi@yahoo.com",
+        "Profile" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Ffemale-passport-photo&psig=AOvVaw1Xq1NhSOeHeLR7HB4Ms192&ust=1685812813899000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLirrKWMpf8CFQAAAAAdAAAAABAY",
+        "Status" : "Active",
+        "Role" : "Admin"
+    }
+    ]
+}
